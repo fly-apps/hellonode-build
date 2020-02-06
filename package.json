@@ -1,0 +1,14 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "A hellonode example for use with flyctl builders",
+  "main": "hellonode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dj@fly.io",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
