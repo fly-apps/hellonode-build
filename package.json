@@ -4,7 +4,8 @@
   "description": "A hellonode example for use with flyctl builders",
   "main": "hellonode.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hellonode.js"
   },
   "author": "dj@fly.io",
   "license": "MIT",
